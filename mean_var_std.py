@@ -38,8 +38,5 @@ def calculate(list_input):
           matrix.sum().tolist()
       ]
   }
-
-
-
-
-    return calculations
+  
+  return calculations
